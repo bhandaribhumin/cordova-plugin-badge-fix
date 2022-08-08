@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-badge.git"
+    "url": "git+https://github.com/bhandaribhumin/cordova-plugin-badge-fix.git"
   },
   "keywords": [
     "appplant",
@@ -48,7 +48,7 @@
   "author": "Sebastián Katzer",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/katzer/cordova-plugin-badge/issues"
+    "url": "https://github.com/bhandaribhumin/cordova-plugin-badge-fix/issues"
   },
-  "homepage": "https://github.com/katzer/cordova-plugin-badge#readme"
+  "homepage": "https://github.com/bhandaribhumin/cordova-plugin-badge-fix#readme"
 }
